@@ -1,5 +1,3 @@
-Sure! Here's a **README.md** file for your **AR Paint** project using **Unity** and **Vuforia**.  
-
 ---
 
 # 🎨 AR Paint  
