@@ -38,7 +38,7 @@ An **Augmented Reality (AR) painting** project using **Unity** and **Vuforia** f
 
 
 ## 📧 Contact  
-👤 **Anukriti CHoudhary**  
+👤 **Anukriti Choudhary**  
 ✉️ Email: chyanukriti@gmail.com  
 🌐 GitHub: [anukritich](https://github.com/anukritich)  
 
